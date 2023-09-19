@@ -1,0 +1,17 @@
+#OS junk files
+[Tt]humbs.db
+*.wbk
+
+#Visual Studio files
+*.suo
+*.user
+[Bb]in/
+[Oo]bj/
+packages/
+.vs/
+.vscode/
+[Ss]etup\ [Ff]iles/
+node_modules/
+
+#Strong name key
+*.snk
